@@ -8,3 +8,26 @@ div{
     background-color: aliceblue;
     display: inline-block;
 }
+#span1{
+    width: 100px;
+    height: 200px;
+    border: 1px solid blue;
+    background-color: blueviolet;
+    display: inline;
+}
+
+#span2{
+    width: 100px;
+    height: 200px;
+    border: 1px solid blue;
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+#span3{
+    width: 100px;
+    height: 200px;
+    border: 1px solid blue;
+    background-color: blueviolet;
+    display: block;
+}
